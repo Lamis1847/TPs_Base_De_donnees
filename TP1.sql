@@ -104,7 +104,7 @@ Insert into VOL (VOLNUM,PLNUM,AVNUM,VLLEDEP,VILLEARR,HEUREDEP,HEUREARR) values (
 
 Insert into VOL (VOLNUM,PLNUM,AVNUM,VLLEDEP,VILLEARR,HEUREDEP,HEUREARR) values (115,7,5,'PARIS','TOULOUSE',1800,1900);
 
-////// Interrogation de la bse
+////// Interrogation de la base
 1)
 select * from PILOTE;
 
